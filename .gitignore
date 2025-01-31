@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Input and output directories
+**/lrs_demo_data/**
+**/imaging_demo_data/**
+
 # Distribution / packaging
 .Python
 build/
